@@ -1,0 +1,22 @@
+h1 { 
+    border-bottom-style: inset;
+ }
+.tarefa-selecionada { 
+    color: rgb(0, 0, 0); 
+    font-style: italic; 
+}
+.tarefa-normal {
+     color: rgb(231, 226, 226); 
+    }
+.img-fluid {
+    width: 50px;
+}
+
+#divQuadro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    background-color: rgb(231, 182, 122);
+}
